@@ -3,5 +3,5 @@ Restaurant Reservation and Point of Sale System (RRPSS)
 
 ---
 
-Please refer to here: https://github.com/yiqwan/CZ2002-Project/
+Please refer to here: https://github.com/yiqwan/CZ2002-Project/tree/Joshua
 
